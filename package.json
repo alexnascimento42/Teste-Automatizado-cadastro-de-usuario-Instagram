@@ -1,0 +1,17 @@
+{
+  "name": "instagram",
+  "version": "1.0.0",
+  "description": "testes automatizados no site youtube.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Alex Nascimento",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^3.0.1"
+  },
+  "devDependencies": {
+    "faker": "^6.6.6"
+  }
+}
